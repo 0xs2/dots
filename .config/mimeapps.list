@@ -1,0 +1,36 @@
+[Default Applications]
+
+# images
+image/jpeg=mpv.desktop;gimp.desktop
+image/png=mpv.desktop;gimp.desktop
+image/gif=mpv.desktop;gimp.desktop
+image/webp=mpv.desktop;gimp.desktop
+image/vnd.microsoft.icon=gimp.desktop
+
+# videos
+video/mp4=mpv.desktop;kdenlive.desktop
+video/webm=mpv.desktop;kdenlive.desktop
+video/mov=mpv.desktop;kdenlive.desktop
+video/avi=mpv.desktop;kdenlive.desktop
+
+# audio
+audio/mpeg=mpv.desktop
+
+# Default application for coding files
+application/xml=codium.desktop;librewolf.desktop
+application/json=codium.desktop;librewolf.desktop
+application/php=codium.desktop;librewolf.desktop
+application/html=codium.desktop;librewolf.desktop
+application/css=codium.desktop;librewolf.desktop
+application/javascript=codium.desktop;librewolf.desktop
+application/python=codium.desktop;librewolf.desktop
+application/typescript=codium.desktop;librewolf.desktop
+application/x-shellscript=codium.desktop
+
+# sql
+application/sql=codium.desktop
+
+# sqlite3
+application/x-sqlite3=sqlitebrowser.desktop
+
+*=
